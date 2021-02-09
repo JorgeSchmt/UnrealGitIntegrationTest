@@ -1,10 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.26",
-	"Category": "",
-	"Description": "",
-	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:54257f13522532102c95d9dc38573f56ffa6e36e1224c30abb0f87d664f7decf
+size 152
